@@ -1,0 +1,1 @@
+from loader.execute import start_bot
